@@ -1,0 +1,6 @@
+0 Background Noise
+1 artifact
+2 extrahls
+3 murmur
+4 normal
+5 unlabel
